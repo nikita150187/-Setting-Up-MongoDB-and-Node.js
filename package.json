@@ -1,0 +1,25 @@
+{
+  "name": "-setting-up-mongodb-and-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita150187/-Setting-Up-MongoDB-and-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikita150187/-Setting-Up-MongoDB-and-Node.js/issues"
+  },
+  "homepage": "https://github.com/nikita150187/-Setting-Up-MongoDB-and-Node.js#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.2"
+  }
+}
